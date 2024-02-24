@@ -1,0 +1,16 @@
+-- return {
+--   {
+--     "neovim/nvim-lspconfig",
+--     opts = {
+--       servers = {
+--         dartls = {},
+--       },
+--     },
+--     cmd = {
+--       "dart",
+--       "/Users/valtersalksnis/development/flutter/bin/cache/dart-sdk/bin/snapshots/analysis_server.dart.snapshot",
+--       "--lsp",
+--     },
+--     filetypes = { "dart" },
+--   },
+-- }
